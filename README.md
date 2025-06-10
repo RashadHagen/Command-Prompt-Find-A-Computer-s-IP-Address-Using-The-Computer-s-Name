@@ -1,11 +1,11 @@
-<h1>Command Prompt – Find A Computer’s IP Address Using The Computer’s Name</h1>
+<h1>Command Prompt – ping (user’s computer name) - Find A Computer’s IP Address Using The Computer’s Name</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to find a computer’s IP Address using the computer’s name.  Finding the IP Address of another computer can help you to remotely connect to a computer with the consent of the user who need help.  Example: ping client2kis</b>
+This project goes over how to use command prompt: command prompt: ping (user’s computer name) to find a computer’s IP Address using the computer’s name.  Finding the IP Address of another computer can help you to remotely connect to a computer with the consent of the user who need help.  Example: ping client2kis</b>
 
 
 
